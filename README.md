@@ -1,4 +1,4 @@
-# skyfactory
+# Sky Factory
 Pagina Oficial para reportar y solucionar problemas del servidor público.
 
 Importante: Para agilizar el procedimiento, desde el principio deberá publicar en imágenes o videos las pruebas relacionadas con su reporte, así se responderá lo antes posible.
@@ -32,4 +32,4 @@ Importante: Si deseas colocar un Crash Report completo, primero deberás publica
 ### NO Reportar lo Siguiente
 
 * Servidor cerrado o caído. Para ello utilizar Twitter o el mail `heberonchannel@live.com`
-* Problemas de otros Modapcks diferentes.
+* Problemas de otros Modpacks diferentes.
